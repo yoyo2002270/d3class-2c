@@ -1,0 +1,29 @@
+blockquote{
+    color: blue;
+}
+h1 {
+    color:palevioletred;
+}
+#redman{
+    width:200px;
+}
+#redman img{
+    width:100px;
+    height: 100px;
+    margin-left: 50px;
+}
+#greenone{
+    background-color:lightgreen;
+    width:200px; 
+    height:50px;
+    border-style:double solid dotted solid;
+    border-color: green;
+}
+#greentwo{
+    background-color:lightgreen;
+    width:150px; 
+    height:200px;
+    margin-left:25px; 
+    border-style:none solid solid solid;
+    border-color: green;
+}
